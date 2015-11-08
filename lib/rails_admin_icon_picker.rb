@@ -1,0 +1,2 @@
+module RailsAdminIconPicker
+end
