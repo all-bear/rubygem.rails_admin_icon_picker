@@ -8,8 +8,8 @@
   "install" : {
     "ignore": ["bootstrap", "jquery"],
     "path": {
-      "css": "vendor/assets/stylesheets/{name}",
-      "js": "vendor/assets/javascripts/{name}"
+      "css": "vendor/assets/stylesheets/rails_admin",
+      "js": "vendor/assets/javascripts/rails_admin"
     },
     "sources" : {
       "fontawesome-iconpicker" : [
