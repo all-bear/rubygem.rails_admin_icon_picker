@@ -8,6 +8,9 @@ require 'factory_girl'
 require 'factories'
 require 'rails_admin'
 require 'rspec/rails'
+
+Dir[File.expand_path('../shared_examples/**/*.rb', __FILE__)].each { |file| require file }
+
 # Add additional requires below this line. Rails is not loaded until this point!
 
 # Requires supporting ruby files with custom matchers and macros, etc, in
