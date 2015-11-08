@@ -1,0 +1,21 @@
+{
+  "name": "rails_admin_icon_picker",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "fontawesome-iconpicker": "~1.2.0"
+  },
+  "install" : {
+    "ignore": ["bootstrap", "jquery"],
+    "path": {
+      "css": "vendor/assets/stylesheets/{name}",
+      "js": "vendor/assets/javascripts/{name}"
+    },
+    "sources" : {
+      "fontawesome-iconpicker" : [
+        "bower_components/fontawesome-iconpicker/dist/css/fontawesome-iconpicker.min.css",
+        "bower_components/fontawesome-iconpicker/dist/js/fontawesome-iconpicker.min.js"
+      ]
+    }
+  }
+}
