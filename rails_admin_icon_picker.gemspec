@@ -19,7 +19,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'rails', '~> 4.0'
   s.add_dependency 'rails_admin', '~> 0.7.0'
 
-  s.add_development_dependency 'rails_admin', '~> 0.7.0'
   s.add_development_dependency 'sqlite3'
   s.add_development_dependency 'factory_girl', '>= 4.2'
   s.add_development_dependency 'rspec-rails', '>= 2.14'
