@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = RailsAdminIconPicker::VERSION
   s.authors     = ['Oleh Birjukov']
   s.email       = ['ol.birjukov@gmail.com']
-  s.homepage    = 'TODO'
-  s.summary     = 'TODO: Summary of RailsAdminIconPicker.'
-  s.description = 'TODO: Description of RailsAdminIconPicker.'
+  s.homepage    = 'https://github.com/all-bear/rubygem.rails_admin_icon_picker'
+  s.summary     = 'Font awesome icon picker field for rails_admin.'
+  s.description = 'Font awesome icon picker field for rails_admin.'
   s.license     = 'MIT'
 
   s.files = Dir['{app,config,db,lib,vendor}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.md']
