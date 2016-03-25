@@ -7,7 +7,7 @@ Add (or create this file and then add) this stylesheet into app/assets/styleshee
 ```css
 @import "rails_admin/icon_picker";
 ```
-Add (or create this file and then add) this javascript into app/assets/stylesheets/rails_admin/ui.js:
+Add (or create this file and then add) this javascript into app/assets/javascripts/rails_admin/ui.js:
 ```javascript
 //= require 'rails_admin/icon_picker'
 ```
